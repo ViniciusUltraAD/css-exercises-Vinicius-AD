@@ -27,7 +27,6 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
-  width: 300px;
   flex-shrink: 0;
   padding: 16px;
 }
